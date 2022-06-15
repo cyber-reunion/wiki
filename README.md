@@ -5,5 +5,5 @@
 ## Record
 - 2022/06/15
 - 2022/06/29
-  - 面試 (VJ, Jimmy)
+  - 面試題目 (VJ, Jimmy)
   - MD management
